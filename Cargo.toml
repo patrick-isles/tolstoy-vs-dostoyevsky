@@ -1,0 +1,10 @@
+[package]
+name = "tolstoy-vs-dostoyevsky"
+version = "0.1.0"
+edition = "2024"
+authors = ["Patrick Isles <isles12123@outlook.com>"]
+description = "The Moscow 1880 Hackathon: Tolstoy's Historical Determinism vs Dostoevsky's Underground Spite"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+colored = "3.1.1"
